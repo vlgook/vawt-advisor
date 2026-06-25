@@ -2,7 +2,7 @@
 
 **Інструмент попередньої оцінки генерації та ROI для вертикальних вітрогенераторів Dospel Dragon**
 
-🔗 **[Відкрити калькулятор](https://volodymyr-huk.github.io/vawt-advisor)**
+🔗 **[Відкрити калькулятор](https://vlgook.github.io/vawt-advisor/)**
 
 ---
 
