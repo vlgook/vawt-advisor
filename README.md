@@ -1,4 +1,4 @@
-# VAWT Advisor 7.0
+# VAWT Advisor 7.1
 
 **Pre-feasibility tool for Dospel Dragon vertical-axis wind turbines: generation & ROI estimation**
 **Інструмент попередньої оцінки генерації та ROI для вертикальних вітрогенераторів Dospel Dragon**
@@ -34,7 +34,7 @@ Built for partners and clients of **ELKO Ukraine · Project Distribution Departm
 
 | Parameter | Value |
 |---|---|
-| Version | 7.0 |
+| Version | 7.1 |
 | Size | 169 KB |
 | Dependencies | none (map loads from CDN on demand) |
 | Compatibility | Chrome, Firefox, Safari, Edge, iOS Safari, Telegram, Teams |
@@ -80,7 +80,8 @@ Accuracy: ±20–30% (pre-feasibility). Project decisions require an on-site win
 
 | Версія | Ключові зміни / Key changes |
 |---|---|
-| **7.0** | Повна двомовність UA/EN, вкладка «Порівняти», збереження розрахунку (JSON), блокування паспортних полів, інженерний редизайн, журнал змін, посилений захист вводу |
+| **7.1** | Виправлено карту вітру: у калькулятор підставляється швидкість на 10 м (раніше висота враховувалась двічі); зв’язок з калькулятором TCO резервного живлення |
+| 7.0 | Повна двомовність UA/EN, вкладка «Порівняти», збереження розрахунку (JSON), блокування паспортних полів, інженерний редизайн, журнал змін, посилений захист вводу |
 | 6.0 | Карта ERA5, v_nominal=10 м/с (уточнення виробника), гальмування при 11 м/с, iOS/Telegram/Teams fixes |
 | 5.x | Сторінка «Модель», Frandsen TI, κ=5 дефолт, мініфікація |
 | 4.x | Крос-валідація полів, нові попередження |
