@@ -25,6 +25,7 @@ Built for partners and clients of **ELKO Ukraine · Project Distribution Departm
 - 20-year financial model: NPV, DPP, ROI, equipment degradation
 - Compare tab: up to 3 configurations side by side with best-value highlighting
 - Save & open calculations (JSON with all parameters)
+- Export to the [backup-power TCO calculator](https://vlgook.github.io/tco-backup-power/): seasonal generation, turbine power curve, hub height and mean wind; the TCO calculator uses the curve with hourly ERA5 wind to estimate guaranteed wind output during the worst outage
 - Fully bilingual UA/EN interface, tooltips and validation (the "Model" theory page is Ukrainian-only)
 - Engineering-style design: monospaced figures, technical-documentation look
 - Built-in changelog shown after version updates
@@ -71,6 +72,7 @@ Accuracy: ±20–30% (pre-feasibility). Project decisions require an on-site win
 - 20-річна фінансова модель: NPV, DPP, ROI, зношування обладнання
 - Вкладка «Порівняти»: до 3 конфігурацій поруч з підсвічуванням найкращих значень
 - Збереження та відкриття розрахунків (JSON з усіма параметрами)
+- Передача в [калькулятор TCO резервного живлення](https://vlgook.github.io/tco-backup-power/): сезонна генерація, крива потужності турбіни, висота осі й середній вітер; за кривою і погодинним вітром ERA5 калькулятор TCO оцінює, скільки турбіна гарантовано дає в найгірше відключення
 - Повна двомовність UA/EN: інтерфейс, тултіпи, валідація (сторінка «Модель» — українською)
 - Інженерний дизайн: моноширинні цифри, стиль технічної документації
 - Журнал змін: при оновленні версії користувач бачить що саме змінилось
